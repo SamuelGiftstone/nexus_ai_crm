@@ -279,7 +279,7 @@ This aligns perfectly with the hackathon's focus on offline and low-connectivity
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nexus-ai-crm.git
+git clone https://github.com/SamuelGiftstone/nexus_ai_crm.git
 ```
 
 ## Install Flutter Packages
